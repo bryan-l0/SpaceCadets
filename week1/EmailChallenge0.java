@@ -14,7 +14,7 @@ import java.net.URLConnection;
  *
  * @author Bryan Lo
  */
-public class EmailChallenge {
+public class EmailChallenge0 {
     /**
      * Method to concatenate email ID and directory.
      * @param emailInput - the inputted email ID through the terminal
